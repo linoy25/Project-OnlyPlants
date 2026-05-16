@@ -3,7 +3,13 @@
 > **Cloud-based IoT and AI dashboard for precision agriculture of orchids.**
 
 ---
+## 👥 Team Members
+* **Linoy Cohen** 
+* **Tehila Ben Dahan** 
+* **Yarden Ben Shitrit** 
+* **Yuval Rotenberg** 
 
+---
 ## 📖 About the Project
 A smart, cloud-based system tailored specifically for orchid growers. The application provides a professional dashboard to monitor, analyze, and control plant health in real-time, integrating advanced AI analysis and IoT sensor data along with engaging gamification features to elevate the user experience.
 
