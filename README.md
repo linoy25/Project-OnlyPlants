@@ -18,9 +18,9 @@ A smart, cloud-based system tailored specifically for orchid growers. The applic
 ## 📓 Tutorial Notebooks (Google Colab Links)
 Here are the linear notebook links for the lab sessions and exercises conducted throughout the course. Click on any link below to open and run the code directly in Google Colab:
 
-**Tutorial 1** https://colab.research.google.com/drive/1BZtrIiJZeeHxYt5crdjm3sLfeH6jBKNw?usp=sharing
-**Tutorial 2** https://colab.research.google.com/drive/1GVmaLEtSUy5v_eYAfBdOWXxLPBqbVwMu?usp=sharing
-**Tutorial 3** https://colab.research.google.com/drive/1nxDkwa9XqUay-xcDhuKSXxcvAPr75YHt?usp=sharing
-**Tutorial 4** https://colab.research.google.com/drive/10f89GSQi9c_oDNtWBI_SCDvzPcwKDX4q?usp=sharing
-**Tutorial 5** https://colab.research.google.com/drive/1PjkXzaIXWEyA3PsJK_ii_JbqFPhQFmek?usp=sharing
-**Tutorial 6** https://colab.research.google.com/drive/1hpfcev65HLmkF4pAsml-WFLHS4Yv2dEo?usp=sharing
+* **Tutorial 1** https://colab.research.google.com/drive/1BZtrIiJZeeHxYt5crdjm3sLfeH6jBKNw?usp=sharing
+* **Tutorial 2** https://colab.research.google.com/drive/1GVmaLEtSUy5v_eYAfBdOWXxLPBqbVwMu?usp=sharing
+* **Tutorial 3** https://colab.research.google.com/drive/1nxDkwa9XqUay-xcDhuKSXxcvAPr75YHt?usp=sharing
+* **Tutorial 4** https://colab.research.google.com/drive/10f89GSQi9c_oDNtWBI_SCDvzPcwKDX4q?usp=sharing
+* **Tutorial 5** https://colab.research.google.com/drive/1PjkXzaIXWEyA3PsJK_ii_JbqFPhQFmek?usp=sharing
+* **Tutorial 6** https://colab.research.google.com/drive/1hpfcev65HLmkF4pAsml-WFLHS4Yv2dEo?usp=sharing
