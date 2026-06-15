@@ -49,4 +49,5 @@ Here are the linear notebook links for the lab sessions and exercises conducted 
 * **Tutorial 6** https://colab.research.google.com/drive/1hpfcev65HLmkF4pAsml-WFLHS4Yv2dEo?usp=sharing
 * **Tutorial 7** https://colab.research.google.com/drive/14I8f3cxyvi0BdhCCKlMvyQnyUnrkOjEY?usp=sharing
 * **Tutorial 9** https://colab.research.google.com/drive/1y6it4Tr_l-8ZI-Y5AzDt-1WIOT5cKAF_?usp=sharing
+* **Tutorial 10** https://colab.research.google.com/drive/1kYCabdMesCQE7OkhGeT6VZw7sGv8JGh1?usp=sharing
 
